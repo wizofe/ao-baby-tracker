@@ -1,4 +1,4 @@
-# Ao Eye tracking for babies
+# Ao: An eye tracking platform for babies
 
 ## Introduction
 

@@ -13,3 +13,7 @@ Ao is the personification of light in Māori mythology and it sounds like a suit
 
 
 ## Plan
+
+## License
+
+The project is by definition of Google Summer of Code and Open Source software project and it's licensed under the GNU GPL v3+

@@ -97,8 +97,10 @@ The result of this work which was about 420 hours, is divided in the following p
 
 Please [CLICK HERE](docs/index.html) for the API documentation 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- :paw_prints:-->
-<!-- FOLDER STRUCTURE -->
+<!-- IMPLEMENTATION -->
 <h2 id="implementation"> Implementation</h2>
 
 Finally, here's an example of how to use the library with psychopy (of course you need to install the respective anaconda/miniconda environment with all the required files):
@@ -111,6 +113,8 @@ DISPTYPE = 'psychopy'
 # Eye tracker properties
 TRACKERTYPE = 'OpenVision'
 ```
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- FUTURE -->
 <h2 id="future"> Future Goals </h2>

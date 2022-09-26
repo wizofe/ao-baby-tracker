@@ -28,7 +28,7 @@
     <!--<li><a href="#experiments">Experiments</a></li>-->
     <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
     <li><a href="#future"> ➤ Future</a></li>
-    <li><a href="#aknowledgements"> ➤ Aknowledgements</a></li>
+    <li><a href="#aknowledgments"> ➤ Aknowledgments</a></li>
   </ol>
 </details>
 
@@ -97,8 +97,8 @@ The result of this work which was about 420 hours, is divided in the following p
 
 Alas, the end of Summer of Code shouldn't be the end of this project! With an amazing scope to go forward, I would love to put much more effort and create a full-working application that could be used in a clinical setting with help and testing from other researchers and labs we already had contact with. As an example researchers from Birkbeck, University of London and King's College London 
 
-<!-- AKNOWLEDGEMENTS -->
-<h2 id="aknowledgements"> Thank you! </h2>
+<!-- AKNOWLEDGMENTS -->
+<h2 id="aknowledgments"> Thank you! </h2>
 
 First of all my supervisor Suresh for the amazing insight and information! Sometimes this information was a lot for me to grasp and make out where we are heading but I know that this is invaluable for the future versions of the app and collaborative efforts with other researchers.
 

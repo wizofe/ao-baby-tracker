@@ -1,3 +1,4 @@
+import datetime
 import time
 import os
 
@@ -8,3 +9,6 @@ def socket():
     # Get socket from the Python Web Library
     # In this file it's not implemented from scratch
     return 0
+
+zero = 0
+one = 1

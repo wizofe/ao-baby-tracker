@@ -8,21 +8,14 @@
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#dataset"> ➤ Dataset</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
-    <li>
-      <a href="#preprocessing"> ➤ Preprocessing</a>
-      <ul>
-        <li><a href="#preprocessed-data">Pre-processed data</a></li>
-        <li><a href="#statistical-feature">Statistical feature</a></li>
-        <li><a href="#topological-feature">Topological feature</a></li>
-      </ul>
-    </li>
-    <!--<li><a href="#experiments">Experiments</a></li>-->
-    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
-    <li><a href="#future"> ➤ Future</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#api"> ➤ API</a></li>
+    <li><a href="#implementation"> ➤ Implementation</a></li>
+    <li><a href="#psychometrics"> ➤ Psychometrics</a></li>
+    <li><a href="#future"> ➤ Future Goals</a></li>
     <li><a href="#acknowledgments"> ➤ Acknowledgments</a></li>
+    <li><a href="#license"> ➤ License</a></li
   </ol>
 </details>
 
@@ -96,7 +89,13 @@ In case this doesn't work, please download the repository locally and view with 
 Extra fun fact: If you click on "source" in the documentation, it takes you directly to the function and shows you the respective API code.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- IMPLEMENTATION -->
+<h2 id="psychometrics"> Psychometrics</h2>
 
+This is an indication 
+![Psychometrics](/images/psychometrics.png)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- :paw_prints:-->
 <!-- IMPLEMENTATION -->
 <h2 id="implementation"> Implementation</h2>
@@ -184,6 +183,6 @@ Last but not least I would also like to thank Dr Arvind Chandna for providing th
 I hope that with Google's open source support, I was able to create a seed via a useful API and code suggestions which can result in a project which can be useful for the future in the clinical setting! Thanks Google! 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## License
+<h2 id="license"> License</h2>
 
 The project is by definition of Google Summer of Code and Open Source software project and it's licensed under the GNU GPL v3+

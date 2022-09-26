@@ -84,18 +84,44 @@ The result of this work which was about 420 hours, is divided in the following p
     │
     ├── 
     │   ├── api
-    │   │   ├── wip.py
-    │   │   ├── input.py
-    
-    ETC
+    │   │   ├── imports.py
+    │   │   ├── openvisionapi.py
+    |   |   ├── __pycache__
+    ├── docs
+    |   ├── openvisionapi.html
+    |   ├── index.html
+    |   ├── search.js
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## API
 
+<!-- :paw_prints:-->
+<!-- FOLDER STRUCTURE -->
+<h2 id="implementation"> Implementation</h2>
+
+Finally, here's an example of how to use the library with psychopy (of course you need to install the respective anaconda/miniconda environment with all the required files):
+
+```
+# Display properties
+DISPSIZE = (1920, 1080)
+DISPTYPE = 'psychopy'
+ 
+# Eye tracker properties
+TRACKERTYPE = 'OpenVision'
+```
+
 <!-- FUTURE -->
 <h2 id="future"> Future Goals </h2>
 
-Alas, the end of Summer of Code shouldn't be the end of this project! With an amazing scope to go forward, I would love to put much more effort and create a full-working application that could be used in a clinical setting with help and testing from other researchers and labs we already had contact with. As an example researchers from Birkbeck, University of London and King's College London 
+Alas, the end of Summer of Code shouldn't be the end of this project! With an amazing scope to go forward, I would love to put much more effort and create a full-working application that could be used in a clinical setting with help and testing from other researchers and labs we already had contact with. As an example researchers from Birkbeck, University of London and King's College London provided insight, data and offered future help to test a complete eye tracker with developmental populations.
+
+Here's some future roadmap suggestions, starting from low-hanging fruit to more universal features:
+
+- Create custom xxx-conda environments with yaml configuration files depending on the configuration (e.g. development, testing, release)
+- Integrate with psychopy, builder output using the eye position from the API output
+- Create grading acuity 
+- Create a modular input system for psyexp files (the standalone)
+- Test first with laptops before deciding a mobile platform
 
 <!-- Acknowledgments -->
 <h2 id="acknowledgments"> Acknowledgments! </h2>

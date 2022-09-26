@@ -129,6 +129,8 @@ Here's some future roadmap suggestions, starting from low-hanging fruit to more 
 - Create a modular input system for psyexp files (the standalone)
 - Test first with laptops before deciding a mobile platform
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- Acknowledgments -->
 <h2 id="acknowledgments"> Acknowledgments! </h2>
 
@@ -140,6 +142,7 @@ Last but not least I would also like to thank Dr Arvind Chandna for providing th
 
 I hope that with Google's open source support, I was able to create a seed via a useful API and code suggestions which can result in a project which can be useful for the future in the clinical setting! Thanks Google! 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## License
 
 The project is by definition of Google Summer of Code and Open Source software project and it's licensed under the GNU GPL v3+

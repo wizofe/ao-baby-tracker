@@ -89,7 +89,7 @@ The result of this work which was about 420 hours, is divided in the following p
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## API
 
-Please [CLICK HERE](docs/index.html) for the API documentation 
+Please [CLICK HERE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wizofe/ao-baby-tracker/master/docs/openvisionapi.html) for the API documentation 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 

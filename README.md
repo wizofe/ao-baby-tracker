@@ -66,7 +66,7 @@ The result of this work which was about 420 hours, is divided in the following p
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-    code
+    ao-baby-tracker
     .
     │
     ├── 
@@ -78,6 +78,9 @@ The result of this work which was about 420 hours, is divided in the following p
     |   ├── openvisionapi.html
     |   ├── index.html
     |   ├── search.js
+    ├── resources
+    |   ├── acuity.psyexp
+    |   
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## API
@@ -92,8 +95,13 @@ Extra fun fact: If you click on "source" in the documentation, it takes you dire
 <!-- IMPLEMENTATION -->
 <h2 id="psychometrics"> Psychometrics</h2>
 
-This is an indication 
+This is an indication of the direction and design of the psychometrics. For this part, Muhammed worked for the Google Summer of Code to develop various grating and vernier acuity designs for human infants. I am also including my own version of an example, just to show the way it can be used and integrated to the eye gaze tracker!
+
+The diagram is a sample of two publications depicting such stimuli:
+
 ![Psychometrics](/images/psychometrics.png)
+
+You can find the respective file in the resources/ folder inside the main source code.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- :paw_prints:-->

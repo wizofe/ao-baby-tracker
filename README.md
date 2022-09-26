@@ -82,7 +82,7 @@ The result of this work which was about 420 hours, is divided in the following p
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## API
 
-Please [CLICK HERE](https://external.ink/?to=https://htmlpreview.github.io/?https://raw.githubusercontent.com/wizofe/ao-baby-tracker/master/docs/openvisionapi.html) for the API documentation. Important: the main documentation is inside the folder as an HTML file. GitHub doesn't render HTMLs, so this preview is using an external website.
+Please [CLICK HERE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wizofe/ao-baby-tracker/master/docs/openvisionapi.html) for the API documentation. Important: the main documentation is inside the folder as an HTML file. GitHub doesn't render HTMLs, so this preview is using an external website.
 
 In case this doesn't work, please download the repository locally and view with the web browser of your choice.
 

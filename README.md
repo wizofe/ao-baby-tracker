@@ -1,5 +1,5 @@
 # !!!!
-# DANGER: This is not a final version. The final public version is going to be updated, after revision of the final API testing by Monday 26th on 3pm BST.
+# DANGER: The final public version is currently updated - end of the day of Monday 26th.
 # !!!!
 
 # DRAFT FOLLOWS:

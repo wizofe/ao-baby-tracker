@@ -28,7 +28,7 @@
     <!--<li><a href="#experiments">Experiments</a></li>-->
     <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
     <li><a href="#future"> ➤ Future</a></li>
-    <li><a href="#aknowledgments"> ➤ Aknowledgments</a></li>
+    <li><a href="#acknowledgments"> ➤ Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -97,10 +97,10 @@ The result of this work which was about 420 hours, is divided in the following p
 
 Alas, the end of Summer of Code shouldn't be the end of this project! With an amazing scope to go forward, I would love to put much more effort and create a full-working application that could be used in a clinical setting with help and testing from other researchers and labs we already had contact with. As an example researchers from Birkbeck, University of London and King's College London 
 
-<!-- AKNOWLEDGMENTS -->
-<h2 id="aknowledgments"> Thank you! </h2>
+<!-- Acknowledgments -->
+<h2 id="acknowledgments"> Acknowledgments! </h2>
 
-First of all my supervisor Suresh for the amazing insight and information! Sometimes this information was a lot for me to grasp and make out where we are heading but I know that this is invaluable for the future versions of the app and collaborative efforts with other researchers.
+First of all my supervisor Suresh (Dr Krishna) from McGill University for the amazing insight and information! Sometimes this information was a lot for me to grasp and make out where we are heading but I know that this is invaluable for the future versions of the app and collaborative efforts with other researchers.
 
 I also want to thank Dr Harris from King's College London for giving my access to Tobii data to test out the API and the basic functionality of the unit interface and comparison between a WebCam on my device and a state-of-the-art eye tracker. I also want to thank Dr T Smith form Birkbeck for his insight on the training of baby eye trackers and his previous experience on it, as well as his willingness to help test-out our code.
 

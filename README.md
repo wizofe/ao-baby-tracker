@@ -1,9 +1,3 @@
-# !!!!
-# DANGER: The final public version is currently updated - end of the day of Monday 26th.
-# !!!!
-
-# DRAFT FOLLOWS:
-
 # Ao: An eye tracking platform for babies
 
 <!-- TABLE OF CONTENTS -->

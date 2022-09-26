@@ -1,3 +1,5 @@
+from imports import *
+
 class OpenAPIGaze:
 
 	def __init__(self, ip='127.0.0.1', port=4242, logfile='default.tsv', \
@@ -319,7 +321,7 @@ class OpenAPIGaze:
 
 	def _parse_msg(self, xml):
 		
-		e = lxml.etree.fromstring(xml)
+		e = ""
 	
 		return (e.tag, e.attrib)
 	

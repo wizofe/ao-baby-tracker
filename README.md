@@ -95,6 +95,8 @@ The result of this work which was about 420 hours, is divided in the following p
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## API
 
+Please [CLICK HERE](docs/index.html) for the API documentation 
+
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
 <h2 id="implementation"> Implementation</h2>
